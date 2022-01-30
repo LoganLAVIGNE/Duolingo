@@ -1,0 +1,41 @@
+{
+    "questionnaire":
+    [
+        {
+            "langue": "Anglais",
+            "questions": ["Bonjour",
+            "Comment allez-vous",
+            "Il fait beau aujourd'hui",
+            "Je m'appelle John",
+            "Au revoir"],
+            "choix": [
+                //Q1
+                ["Hello",
+                "Goodbye",
+                "How are you",
+                "Thanks you"],
+                //Q2
+                ["How is the weather today ?",
+                "How are you ?",
+                "How old are you ?",
+                "What is your name ?"],
+                //Q3
+                ["I'm fine",
+                "I don't have a car",
+                "Today the weather today is good",
+                "I am in the train right now"],
+                //Q4
+                ["I have two sisters",
+                "My dad works 2 hours away from home",
+                "She wasn't there yesterday",
+                "My name is John"],
+                //Q5
+                ["See you later",
+                "Goodbye",
+                "Goodnight",
+                "Good evening"],
+            ],
+            "reponses": ["r1", "r2", "r3", "r4", "r2"]
+        }
+    ]
+}
